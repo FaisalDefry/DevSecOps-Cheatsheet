@@ -1,0 +1,14 @@
+[Numisec-Repository_Optional_RHEL6]
+name=Repository Optional RHEL6
+enabled=1
+baseurl=http://172.16.1.222/optional
+gpgkey = file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
+gpgcheck = 1
+
+[Numisec-Repo_Base_RHEL6]
+name=Repo Base RHEL6
+enabled=1
+baseurl=http://172.16.1.222/base
+gpgkey = file:///etc/pki/rpm-gpg/RPM-GPG-KEY-redhat-release
+gpgcheck = 1
+

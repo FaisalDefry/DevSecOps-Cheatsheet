@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+create_repoconfig	db2repo.pl	53;"	s
+get_dev_id	db2repo.pl	41;"	s
+get_dev_id	regrepo2db.pl	43;"	s
+get_updates	example13.pl	42;"	s
+insert_data	example20.pl	25;"	s
+insert_repodata	regrepo2db.pl	57;"	s
+main	Perl-Udemy/Tutorial17/main.pl	8;"	s
+main	Perl-Udemy/Tutorial3.pl	6;"	s
+main	csvparser.pl	8;"	s
+main	example03.pl	6;"	s
+main	example11.pl	10;"	s
+main	example13.pl	67;"	s
+usage	db2repo.pl	18;"	s
+usage	example13.pl	28;"	s
+usage	regrepo2db.pl	16;"	s

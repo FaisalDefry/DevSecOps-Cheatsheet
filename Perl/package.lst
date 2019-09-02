@@ -1,0 +1,159 @@
+========================================
+Package Name: libssh2.x86_64
+Package Version: 1.4.3-12.el7_6.3
+========================================
+Package Name: libteam.x86_64
+Package Version: 1.27-6.el7_6.1
+========================================
+Package Name: libuuid.x86_64
+Package Version: 2.23.2-59.el7_6.1
+========================================
+Package Name: libwbclient.x86_64
+Package Version: 4.8.3-6.el7_6
+========================================
+Package Name: lvm2.x86_64
+Package Version: 7:2.02.180-10.el7_6.8
+========================================
+Package Name: lvm2-libs.x86_64
+Package Version: 7:2.02.180-10.el7_6.8
+========================================
+Package Name: microcode_ctl.x86_64
+Package Version: 2:2.1-47.5.el7_6
+========================================
+Package Name: mod_ssl.x86_64
+Package Version: 1:2.4.6-89.el7.centos.1
+========================================
+Package Name: mysql-community-client.x86_64
+Package Version: 5.6.45-2.el7
+========================================
+Package Name: mysql-community-common.x86_64
+Package Version: 5.6.45-2.el7
+========================================
+Package Name: mysql-community-libs.x86_64
+Package Version: 5.6.45-2.el7
+========================================
+Package Name: mysql-community-server.x86_64
+Package Version: 5.6.45-2.el7
+========================================
+Package Name: nss.x86_64
+Package Version: 3.36.0-7.1.el7_6
+========================================
+Package Name: nss-pem.x86_64
+Package Version: 1.0.3-5.el7_6.1
+========================================
+Package Name: nss-sysinit.x86_64
+Package Version: 3.36.0-7.1.el7_6
+========================================
+Package Name: nss-tools.x86_64
+Package Version: 3.36.0-7.1.el7_6
+========================================
+Package Name: nss-util.x86_64
+Package Version: 3.36.0-1.1.el7_6
+========================================
+Package Name: oci-systemd-hook.x86_64
+Package Version: 1:0.2.0-1.git05e6923.el7_6
+========================================
+Package Name: openldap.x86_64
+Package Version: 2.4.44-21.el7_6
+========================================
+Package Name: openssl.x86_64
+Package Version: 1:1.0.2k-16.el7_6.1
+========================================
+Package Name: openssl-libs.x86_64
+Package Version: 1:1.0.2k-16.el7_6.1
+========================================
+Package Name: pango.x86_64
+Package Version: 1.42.4-2.el7_6
+========================================
+Package Name: php-tidy.x86_64
+Package Version: 5.4.16-9.el7
+========================================
+Package Name: polkit.x86_64
+Package Version: 0.112-18.el7_6.1
+========================================
+Package Name: python-jinja2.noarch
+Package Version: 2.7.2-3.el7_6
+========================================
+Package Name: python-perf.x86_64
+Package Version: 3.10.0-957.27.2.el7
+========================================
+Package Name: python2-crypto.x86_64
+Package Version: 2.6.1-16.el7
+========================================
+Package Name: python2-pip.noarch
+Package Version: 8.1.2-8.el7
+========================================
+Package Name: python36u.x86_64
+Package Version: 3.6.8-1.el7.ius
+========================================
+Package Name: python36u-devel.x86_64
+Package Version: 3.6.8-1.el7.ius
+========================================
+Package Name: python36u-libs.x86_64
+Package Version: 3.6.8-1.el7.ius
+========================================
+Package Name: samba.x86_64
+Package Version: 4.8.3-6.el7_6
+========================================
+Package Name: samba-client.x86_64
+Package Version: 4.8.3-6.el7_6
+========================================
+Package Name: samba-client-libs.x86_64
+Package Version: 4.8.3-6.el7_6
+========================================
+Package Name: samba-common.noarch
+Package Version: 4.8.3-6.el7_6
+========================================
+Package Name: samba-common-libs.x86_64
+Package Version: 4.8.3-6.el7_6
+========================================
+Package Name: samba-common-tools.x86_64
+Package Version: 4.8.3-6.el7_6
+========================================
+Package Name: samba-libs.x86_64
+Package Version: 4.8.3-6.el7_6
+========================================
+Package Name: selinux-policy.noarch
+Package Version: 3.13.1-229.el7_6.15
+========================================
+Package Name: selinux-policy-targeted.noarch
+Package Version: 3.13.1-229.el7_6.15
+========================================
+Package Name: shadow-utils.x86_64
+Package Version: 2:4.1.5.1-25.el7_6.1
+========================================
+Package Name: sos.noarch
+Package Version: 3.6-19.el7.centos
+========================================
+Package Name: systemd.x86_64
+Package Version: 219-62.el7_6.9
+========================================
+Package Name: systemd-libs.x86_64
+Package Version: 219-62.el7_6.9
+========================================
+Package Name: systemd-sysv.x86_64
+Package Version: 219-62.el7_6.9
+========================================
+Package Name: teamd.x86_64
+Package Version: 1.27-6.el7_6.1
+========================================
+Package Name: tuned.noarch
+Package Version: 2.10.0-6.el7_6.4
+========================================
+Package Name: tzdata.noarch
+Package Version: 2019b-1.el7
+========================================
+Package Name: tzdata-java.noarch
+Package Version: 2019b-1.el7
+========================================
+Package Name: util-linux.x86_64
+Package Version: 2.23.2-59.el7_6.1
+========================================
+Package Name: vim-minimal.x86_64
+Package Version: 2:7.4.160-6.el7_6
+========================================
+Package Name: wget.x86_64
+Package Version: 1.14-18.el7_6.1
+========================================
+Package Name: xfsprogs.x86_64
+Package Version: 4.5.0-19.el7_6

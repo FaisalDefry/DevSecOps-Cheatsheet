@@ -1,0 +1,48 @@
+--------------------
+name:NetworkManager
+architecture:x86_64
+new_epoch:1
+new_version:1.12.0
+new_release:10.el7_6
+group:System Environment/Base
+epoch:1
+version:1.8.0
+release:9.el7
+summary:Network connection manager and user applications
+description:NetworkManager is a system service that manages network interfaces and
+connections based on user or automatic configuration. It supports
+Ethernet, Bridge, Bond, VLAN, Team, InfiniBand, Wi-Fi, mobile broadband
+(WWAN), PPPoE and other devices, and supports a variety of different VPN
+services.
+
+--------------------
+name:NetworkManager-adsl
+architecture:x86_64
+new_epoch:1
+new_version:1.12.0
+new_release:10.el7_6
+group:System Environment/Base
+epoch:1
+version:1.8.0
+release:9.el7
+summary:ADSL device plugin for NetworkManager
+description:This package contains NetworkManager support for ADSL devices.
+--------------------
+name:NetworkManager-config-server
+architecture:noarch
+new_epoch:1
+new_version:1.12.0
+new_release:10.el7_6
+group:System Environment/Base
+epoch:1
+version:1.8.0
+release:9.el7
+summary:NetworkManager config file for "server-like" defaults
+description:This adds a NetworkManager configuration file to make it behave more
+like the old "network" service. In particular, it stops NetworkManager
+from automatically running DHCP on unconfigured ethernet devices, and
+allows connections with static IP addresses to be brought up even on
+ethernet devices with no carrier.
+
+This package is intended to be installed by default for server
+deployments.
